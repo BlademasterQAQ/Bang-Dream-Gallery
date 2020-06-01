@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bang Dream Gallery</string>
+    <string name="card_url_box_hint">卡片資訊 URL</string>
+    <string name="update_card_json_button">立即更新</string>
+    <string name="update_card_json_button_loading">大腦升級中</string>
+    <string name="test_database_button">測試資料庫</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="snackbar_database_updated">資料庫更新成功</string>
+    <string name="snackbar_cg_save_ok">卡面存儲成功，位於&#160;</string>
+    <string name="snackbar_no_write_permission">權限不足，無法存儲圖片</string>
+    <string name="home_database_amount">條目數量　</string>
+    <string name="snackbar_database_update_failed">資料庫更新失敗</string>
+    <string name="Checking_Update">正在檢查更新</string>
+    <string name="Checking_Update_failed">不明</string>
+</resources>

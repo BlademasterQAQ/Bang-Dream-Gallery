@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_url" translatable="false">https://bestdori.com/api/cards/all.5.json</string>
+</resources>
